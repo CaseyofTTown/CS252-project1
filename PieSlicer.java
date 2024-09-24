@@ -88,7 +88,7 @@ public class PieSlicer extends JFrame implements ActionListener {
 	 * @param args ignored
 	 */
 	public static void main(String[] args) {
-		String title = "Pie";
+		String title = "Cake";
 		if (args.length > 0) {
 			title = args[0];
 		}
