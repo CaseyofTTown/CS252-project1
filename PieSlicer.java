@@ -84,7 +84,7 @@ public class PieSlicer extends JFrame implements ActionListener {
 	
 	/**
 	 * Run the program.
-	 * 
+	 * adding another comment :) 
 	 * @param args ignored
 	 */
 	public static void main(String[] args) {
