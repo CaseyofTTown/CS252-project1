@@ -51,9 +51,9 @@ public class PieView extends javax.swing.JPanel {
 	 * @param g the graphics context
 	 */
 	@Override
-	public void decorate(Graphics g)
+	public void paint(Graphics g)
 	{
-		super.decorate(g);
+		super.paint(g);
 		Dimension d = getSize();
 		pie.radius = Math.min(d.width, d.height)/2;
 		int x = 0;
